@@ -44,5 +44,12 @@
 	git add bitácora.txt
 	git add dirección.txt
 	git commit -m "Paso 23"
+(24)	git checkout master
+(25)	---				Se hace de manera recursiva ya que en la rama master también se había 						modificado el archivo bitácora.txt y podía generar conflictos.
+(26)	git merge RamaD
+(27)	git merge --no-ff RamaC
+(28)	git branch -m Conseguido
+(29)	git add bitácora.txt
+	git commit -m "Paso 29"
 
 
