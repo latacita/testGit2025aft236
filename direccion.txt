@@ -1,6 +1,7 @@
 Centro: Universidad de Ciencias
-Calle: Avenida de Los Castros
+Calle: Avenida los Castros
 Número: 5
 CP: 39015
 Ciudad: Santander
-Provincia: Santander
+Provincia: Cantabria
+
