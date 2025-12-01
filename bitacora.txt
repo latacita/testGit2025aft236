@@ -10,3 +10,8 @@
 (02)	---
 (03)	git add bitácora.txt
 	git commit -m "Paso 03"
+(09)	git checkout RamaB
+(10)	---
+(11)	git add bitácora.txt
+	git add dirección.txt
+	git commit -m "Paso 11"
