@@ -28,4 +28,21 @@
 	git commit
 (15)	git add bitácora.txt
 	git commit -m "Paso 15"
+(16)	git branch RamaC
+(17)	git checkout RamaC
+(18)	---
+(19)	git stash push -m CP2		He comprobado con git Branch -r que no existe una RamaD remota y por ello 					he creado la RamaD
+	git branch -r
+	git branch RamaD
+	git checkout RamaD
+	git push origin RamaD
+(20)	---
+(21)	git add calificación.txt
+	git commit -m "Paso 21"
+(22)	git checkout Rama C
+(23)	git stash pop
+	git add bitácora.txt
+	git add dirección.txt
+	git commit -m "Paso 23"
+
 
